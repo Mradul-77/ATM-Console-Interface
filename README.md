@@ -23,4 +23,4 @@ The project consists of the following classes:
 
 ## How to Use
 
-Clone the Repository in your local editor and run the python code.
+Clone the Repository 'https://github.com/Mradul-77/ATM-Console-Interface.git' in your local editor and run the python code.
